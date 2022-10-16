@@ -1,19 +1,19 @@
 👋 Howdy Howdy, Nathaniel here. 
 
-I play with code in my free time. 
+ I play with code in my free time. 
 
-Likes:
+ Likes:
   - Web3
   - Machine Learning
   - Operating Systems 
   - Excellent UX
   - CyberSecurity
 
-Dislikes:
+ Dislikes:
   - making front-ends. 
 
 
-- 📫 How to reach me:
+📫 How to reach me:
   - [LinkedIn](www.linkedin.com/in/nathaniel-carroll-b4b757179)
 
 <!---
